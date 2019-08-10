@@ -34,7 +34,7 @@ Elaborado con:
 
 ### **NOTA**
 
-Para cualquier ampliación del lenguaje reconocido, leer la observación agregada al final del archivo  [analizador.jison](js\gramatica\analizador.jison) ubicado en  [js/gramatica](js\gramatica) 
+Para cualquier ampliación del lenguaje reconocido, leer la observación agregada al final del archivo  [analizador.jison](js/gramatica/analizador.jison) ubicado en  [js/gramatica](js/gramatica) 
 
 ------
 
